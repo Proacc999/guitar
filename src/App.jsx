@@ -8,17 +8,27 @@ const App = () => {
         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
           Click to open url
         </button>
-      </div>
-      <div>
-        <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+
+         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
           Click to open window
         </button>
-      </div>
-      <div>
-        <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+
+         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
           Click to open external para stem
         </button>
       </div>
+
+      <div>
+       <div>
+        <div>
+          <h3>For Le</h3>
+        </div>
+        <div>
+          <h3>For Ri</h3>
+        </div>
+       </div>
+      </div>
+     
     </div>
   )
 }
